@@ -1,0 +1,13 @@
+# Serve existing pages at extensionless URLs.
+/admin /admin.html 200
+/bot-details /bot-details.html 200
+/bots /bots.html 200
+/dashboard /dashboard.html 200
+/deploy /deploy.html 200
+/docs /docs.html 200
+/forgot-password /forgot-password.html 200
+/login /login.html 200
+/pricing /pricing.html 200
+/register /register.html 200
+/reset-password /reset-password.html 200
+/settings /settings.html 200
